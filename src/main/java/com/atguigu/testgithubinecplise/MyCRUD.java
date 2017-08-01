@@ -7,6 +7,7 @@ public class MyCRUD {
         System.out.println("哈哈我是中国人");
         System.out.println("我为我自己感到自豪");
         System.out.println("我讨厌日本人");
+        System.out.println("我用强总的号码测试");
     }
     
 }
